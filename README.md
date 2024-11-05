@@ -1,4 +1,4 @@
-```markdown
+
 # Photo Studio Database Application
 
 This is a specialized Photo Studio database application designed for personalized event photography and product sales. 
@@ -50,9 +50,7 @@ To start the application, execute the following command from the project directo
 node bin/www.js
 ```
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
